@@ -1,6 +1,9 @@
 # kaggle-madrid-airbnb
 Madrid Airbnb data exploration and business insights.
 
+### Files
+- The analysis has been done entirely within the "EDA.ipynb" notebook.
+
 ### Main libraries used
 - pandas: For data manipulation and wrangling
 - matplotlib: For data visualization
