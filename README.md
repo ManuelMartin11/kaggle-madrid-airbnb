@@ -1,6 +1,9 @@
 # kaggle-madrid-airbnb
 Madrid Airbnb data exploration and business insights.
 
+### Link to Medium post
+https://medium.com/@manumg8/this-is-what-airbnb-data-tell-us-about-madrid-1904406f85a6
+
 ### Files
 - The analysis has been done entirely within the "EDA.ipynb" notebook.
 
